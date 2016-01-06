@@ -1,7 +1,7 @@
 name: Earth Yoga
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
+layout_spectrum: 0.23989
+typography_spectrum: 0.24357
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#001f71'
-    - '#fafbfd'
-    - '#fa2400'
-    - '#fa8300'
-    - '#fef800'
+    - '#2a166f'
+    - '#db261f'
+    - '#f6e10a'
+    - '#ffffff'
+    - '#917b37'
   brandStrength: 0.6875
   lightness: 0.136431293329224
-  saturation: 0.19456502911634743
+  saturation: 0.0625
   rhythmicContrast: 0.320989181753248
 purpose: []
