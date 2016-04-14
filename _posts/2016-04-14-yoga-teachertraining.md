@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The Earth Yoga System is designed to bring awareness to the individual in the hope that as consciousness expands; we begin to realize our true potential. Earth Yoga uses the classical Sun Moon Yoga system in an experienced order, which correlates with the 5 elements being earth, water,fire, air and ether to inspire a transformation in the individual."'
-datePublished: '2016-04-14T06:33:00.587Z'
-dateModified: '2016-04-14T06:32:50.789Z'
+datePublished: '2016-04-14T06:34:56.045Z'
+dateModified: '2016-04-14T06:33:02.185Z'
 title: Yoga TeacherTraining
 author: []
 sourcePath: _posts/2016-04-14-yoga-teachertraining.md
