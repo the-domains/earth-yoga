@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Koh Samui Island Thailand
-datePublished: '2016-04-14T09:16:32.673Z'
-dateModified: '2016-04-14T09:16:22.417Z'
+description: 'Earth represents grounding, foundation of life, substance, connection to life path, and family roots. Earth is a strong, simple, static and unchanging sequence of asanas aimed at all levels. Here you will learn how to teach a simple strong sequence aimed at getting the individual grounded in the basics.'
+datePublished: '2016-04-14T09:18:44.166Z'
+dateModified: '2016-04-14T09:16:43.607Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-earth-represents-grounding-foundation-of-life-substance-c.md
