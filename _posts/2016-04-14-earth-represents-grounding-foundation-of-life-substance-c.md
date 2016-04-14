@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Earth represents grounding, foundation of life, substance, connection to life path, and family roots.\_Earth is a strong, simple, static and unchanging sequence of asanas aimed at all levels. Here you will learn how to teach a simple strong sequence aimed at getting the individual grounded in the basics. The aim of the earth module is to get the yogi confident in teaching a solid all levels set sequence of hatha yoga, you may adjust this to a 60/90 min class.\_ Earth takes up 70 hours of study, mostly asana practice and teaching methods. This you could say is your bread and butter, you will know this inside out and feel confident in teaching a solid earth series to the public, knowing key alignment, useful dialog and timings for each pose.Feel the movement of water as it cascades, crystal and clear over the rocks of a waterfall, then compare it with the limpid stillness of a glade side pool, and how both these things may be expressed within your own nature.\_"
-datePublished: '2016-04-14T11:20:39.339Z'
-dateModified: '2016-04-14T11:20:36.328Z'
+datePublished: '2016-04-14T11:23:49.924Z'
+dateModified: '2016-04-14T11:20:48.056Z'
 title: 22 DAY HATHA YOGA Teacher training Koh Samui Island Thailand
 author: []
 sourcePath: _posts/2016-04-14-earth-represents-grounding-foundation-of-life-substance-c.md
