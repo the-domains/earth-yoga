@@ -17,8 +17,8 @@ keywords:
   - hatha
   - student
 description: 'Shiva Nand (Shaun Hannocks) * Years of teaching experience: 10+ * Certifications: 9 weeks Bikram California, 200 hrs Patrick Creelman (Anusara) Hatha flow Singapore, 500 hrs Diploma of Hatha Yoga, Ana Forrest continued education for teachers Hong Kong, Anusara Teacher training John Friend Japan, 200 hrs Sivananda Yoga Vedante Centre.'
-datePublished: '2016-04-14T06:46:42.584Z'
-dateModified: '2016-04-14T06:46:23.874Z'
+datePublished: '2016-04-14T07:54:59.237Z'
+dateModified: '2016-04-14T07:54:58.249Z'
 author: []
 related: []
 app_links: []
