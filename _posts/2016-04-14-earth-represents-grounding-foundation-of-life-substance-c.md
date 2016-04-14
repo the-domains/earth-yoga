@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: SCHEDULES
-datePublished: '2016-04-14T10:43:06.993Z'
-dateModified: '2016-04-14T10:43:05.584Z'
+description: "Earth represents grounding, foundation of life, substance, connection to life path, and family roots.\_Earth is a strong, simple, static and unchanging sequence of asanas aimed at all levels. Here you will learn how to teach a simple strong sequence aimed at getting the individual grounded in the basics. The aim of the earth module is to get the yogi confident in teaching a solid all levels set sequence of hatha yoga, you may adjust this to a 60/90 min class.\_ Earth takes up 70 hours of study, mostly asana practice and teaching methods. This you could say is your bread and butter, you will know this inside out and feel confident in teaching a solid earth series to the public, knowing key alignment, useful dialog and timings for each pose.Feel the movement of water as it cascades, crystal and clear over the rocks of a waterfall, then compare it with the limpid stillness of a glade side pool, and how both these things may be expressed within your own nature.\_"
+datePublished: '2016-04-14T11:20:39.339Z'
+dateModified: '2016-04-14T11:20:36.328Z'
 title: 22 DAY HATHA YOGA Teacher training Koh Samui Island Thailand
 author: []
 sourcePath: _posts/2016-04-14-earth-represents-grounding-foundation-of-life-substance-c.md
@@ -24,7 +24,137 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2886e1a7-7267-4f4a-aad5-95bd0950c826.jpg)
 
-Welcome to a 22 day Hatha Yoga Teacher training held in Koh Samui Island Thailand on the 22nd of July 2016 Strength, vitality, a deep recollection of spirit, a mood of service to the bigger play of life, intelligent daily practice and daily theory-based workshops for developing a strong foundation in teaching yoga. This training will focus on the most essential skills necessary to step into a classroom upon completion and confidently guide a 60/75/90 minute Hatha yoga practice based on strength and learned alignment. This training is a time tested program with graduates currently teaching. The course is primarily aimed at learning to teach yoga, life as a yoga teacher and simple techniques for self realization. This is a 22-day, full-time training program. The program offers a positive practical Yantra philosophy grounded in recognizing life's sweetness combined with essential principles of hatha yoga alignment. To ensure teachers retain the practical classroom skills and academic study of the history and literature of yoga there are weekly summaries and exams to reflect the progress. 
+Welcome to a 22 day Hatha Yoga Teacher training held in Koh Samui Island Thailand on the 22nd of July 2016 Strength, vitality, a deep recollection of spirit, a mood of service to the bigger play of life, intelligent daily practice and daily theory-based workshops for developing a strong foundation in teaching yoga. This training will focus on the most essential skills necessary to step into a classroom upon completion and confidently guide a 60/75/90 minute Hatha yoga practice based on strength and learned alignment. This training is a time tested program with graduates currently teaching. The course is primarily aimed at learning to teach yoga, life as a yoga teacher and simple techniques for self realization. This is a 22-day, full-time training program. The program offers a positive practical Yantra philosophy grounded in recognizing life's sweetness combined with essential principles of hatha yoga alignment. To ensure teachers retain the practical classroom skills and academic study of the history and literature of yoga there are weekly summaries and exams to reflect the progress.
+
+Our divine mother in eternal labour, life springs forth from her, we drink her, breathe her and walk all over her. She is the great Gaia, she holds the wisdom in the mountains the trees and provides us with shelter and endless delicious foods. Earth Yoga System is dedicated to creating a strong connection with the individual and simple awareness of all surrounding life. 
+
+__Earth represents grounding, foundation of life, substance, connection to life path, and family roots. Earth is a strong, simple, static and unchanging sequence of asanas aimed at all levels. Here you will learn how to teach a simple strong sequence aimed at getting the individual grounded in the basics. The aim of the earth module is to get the yogi confident in teaching a solid all levels set sequence of hatha yoga, you may adjust this to a 60/90 min class.  Earth takes up 70 hours of study, mostly asana practice and teaching methods. This you could say is your bread and butter, you will know this inside out and feel confident in teaching a solid earth series to the public, knowing key alignment, useful dialog and timings for each pose.Feel the movement of water as it cascades, crystal and clear over the rocks of a waterfall, then compare it with the limpid stillness of a glade side pool, and how both these things may be expressed within your own nature. 
+
+Water is a vinyasa flow which takes the student on a journey through various sequences, testing the receptivity of the student, also stopping once or twice to go over asanas in more detail. Richard Freeman in his audio book The Yoga Matrix explains that, when we listen, we create space. The two are intimately connected. Yoga begins with listening, with creating space. Water element brings focus and attention to the finer details of asana. The aim is to eventually flow with a highly transformative sound, which helps to clear issues around 2nd chakra. As a teacher/student of water in the earth yoga system, you are stepping into a moving current of clarity and refining listening skills as you are guided through the 60 hour module. A more advanced module, where the teacher will learn various hatha vinyasa sequences and how to link certain asanas together to teach in a flowing style. Each sequence will have a focus on arm balances, back bends, hip openers, fwd bends and twists. On a physical level, the colour yellow stands for caution. Yellow is between the red of "stop" and the green of "go." Great caution is needed to integrate our physical and astral selves. The road to spirituality is paved with cautious patience.
+
+Fire is the spirit of enthusiasm, which transforms challenges (energy) like the ethereal sword which cuts through the illusionary 3D matrix for better understanding of self, or rather a deeper enquiry to self. We roam into the 3rd chakra (Manipura Chakra, which means the diamond). On the physical side we use strong core exercises to ignite the fire and help transform blockages into a balanced energy centre.  This in turn will affect the internal organs around that region which will thus aid us in feeling emotionally balanced. This chakra is the "power chakra." It governs our sense of self, the power that we have within and over our destinies, the power that we have over others, and the power that others have over us. The third chakra influences the mental portion of our consciousness, both psychic and intellectual, and the power, control and/or freedom that is gained by our minds. During the fire element study we will divide the hours up evenly focusing on the mental part of it just as much as the physical. 
+
+****In Hinduism, Vayu (Sanskrit) also known as Vāta, Pavana 
+
+पवन_(meaning the Purifier), or Prāna, is a primary deity, who is the father of Bhima and the spiritual father of Lord Hanuman. The Sanskrit word 'Vāta' literally means "blown", 'Vāyu' "blower", and 'Prāna' "breathing" the breath of life._
+
+With Air we focus on long deep holds. The prana/energy/chi/ki is that invisible life force which moves through us along proven meridian channels crossing over major organs. Yin yoga is a practice which originated thousands of years ago through a Daoist yoga lineage, first introduced in the west by Paulie Zink a fifth generation master of the art of Monkey Kung Fu. Yin is a practice where we learn about the meridians studied and taught by Paul Grilley and Dr Motoyama's theory of how the body's physical and energetic structures are conducted through the chakra system. Long deep holds all on the floor aimed at preparing the body for meditation and pranayama which leads us on to the practice of ether (earth yoga's meditation/pranayama & nada yoga). 
+
+Physically we will learn different sequences focusing on various organs and working deeply into connective tissues. This practice will be towards the end of the day which will help us to quieten down and get ready for much needed rest for the more yang oriented style morning class (earth/water/fire). 
+
+The element air sits in our heart, so we will touch on heart centred topics of what it really feels like to expand the heart energy. The love inquiry is your experience and your connection with the deeper dimensions of self-realization. Love, forgiveness, compassion, dedication, inspiration, hope, trust and the ability to heal oneself and others. These are some of the qualities when seated in the heart chakra. We learn to feel and become more sensitive to others by diving into the seat of full surrender to a bigger energy, a universal feel. Surrendering to the practice of yoga or simply life itself can allow the veil to lift where we experience a natural beauty of seeing the good in everything, seeing the good leads to deep gratitude and further truly seeing the divinity in all. 
+
+Sahasrara, placed above the head crown, with 1000 petals. In __Hindu __literature, it is known as "_**the supreme centre of contact with God**_". 
+
+__**Space gets split into 4 areas of practice.**
+
+•        Pranayama (breathing)
+
+•        Manas (directing mental energy)
+
+•        Koshas
+
+•        Surat Shabd Yoga  (2nd series)
+
+1- pranayama is practised to purify and activate sushumna nadi so that kundaiini can ascend through it and awaken the chakras. When the chakras are activated, their relevant and respective centres in the brain are triggered into action. Prana is different from oxygen. In human beings, prana is most easily sensed in breathing. But prana is more subtle than the breath or the oxygen contained in the air. Yogis do pranayama ("extension of the life force") to master this subtle energy. You can also increase prana with sleep and meditation, breath, water, and food. Prana is the subtle energy beneath inhalation that lives in the chest. Apana is the subtle energy beneath exhalation that lives in the abdomen. If you would merge prana and apana, you would awaken kundalini shakti, the strongest manifestation of prana in the human body and mind.
+
+2-  Manas (mana = mind) we will learn a variety of meditations taught to heal and connect the individual with the universal. We use simple Nada yoga, concentrating on sound/invoke mantras/silence. We introduce a few methods to suit the individual's choice of sadhana that she/he would like to continue to develop on his/her own. The practice becomes personal as we encourage the practitioner to connect with their inner voice, the inner teacher or one could say "your intuition". 
+
+3- Koshas- The layers, or degrees of reality, that make up the universe are also to be found in the human individual. They can be called sheaths or koshas which are: the physical (annamaya kosha) our familiar physical body, vital (pranamaya kosha) energy field associated with the physical body, mental (manomaya kosha) mind and energies influencing mind, intellectual (vijnanamaya kosha) the discernment of right and wrong one could also say wisdom and the causal (anandamaya kosha) the final veil surrounding the ultimate reality or self. 
+
+4- Surat Shabd Yoga -- Surat means "attention," or "face," which is the outward expression of the soul, shabd means "word" and yoga means "union." The term "word" means the "Sound Current," the "Audible Life Stream" or the "Essence of the Absolute Supreme Being," that is, the dynamic force of creative energy that was sent out, as sound vibration, from the Supreme Being into the abyss of space at the dawn of the universe's manifestation, and that is being sent forth, through the ages, framing all things that constitute and inhabit the universe. You will be given this method in second series.
+
+**Asana**
+
+**• Learn a transformative fun sequence available and challenging to all students of Yoga. **
+
+• In-depth study of basic alignments for over 100 asanas. 
+
+• Learn safe positioning for beginners, modifications for all standard poses
+
+• keeping your students safe during class
+
+• Balancing muscle engagement & active stretching 
+
+• Learn how to create optimal opening of the body in every pose
+
+• Focal point Intelligence - learn which is the centre point for each asana and how to activate it and perform the full pose
+
+• Dialogue - for effective teaching of asana
+
+• Benefits and potential risks of each asana
+
+• Adjustments - physical and verbal
+
+• Yoga Healing. 
+
+• Yoga Therapeutics - learn how to approach students with injuries and encourage healing with skills and support. 
+
+**Anatomy & Physiology**
+
+**• Introduction to yoga anatomy - organs and systems of the body, skeletal system, muscular system, and the biomechanical intelligence of the body**
+
+• Study all the major joints - movements, restrictions, muscular system, physiology, postural muscles
+
+• Understand the muscular system - muscles for movement and alignment in asana 
+
+**Philosophy**
+
+• Historical Yoga Lineages - gain an understanding from the first schools of yoga all the way up to the modern era
+
+• Tantra and modern yoga
+
+• Classical Yoga of Patanjali
+
+• Yoga Sutra study
+
+• The Bhagavad Gita 
+
+• Osho
+
+**Elements**
+
+• Understanding the Five Elements (Space, Air, Fire, Water, Earth)
+
+• The Three Doshas (3 main mind/body principles that create special mental and physical characteristics)
+
+• The Yoga Diet -- You Are What You Eat 
+
+**Yoga jargon**
+
+• Esoteric Anatomy (the anatomical system of conscious energy within the body)
+
+• Chakras (energy centres)
+
+• Mudras (seal or locking energies)
+
+• Bandhas (energy locks)
+
+• Vayus (energies of the breath)
+
+• Nadis (system passage for energy of the breath)
+
+• Pranayama (the art of empowered breathing)
+
+• Kriya (Active cleansing techniques)
+
+• Meditation
+
+**Teaching methods**
+
+• Why do you want to teach?
+
+• The Voice
+
+• Intro & Closing yoga class
+
+• The Art of Good Demonstrations
+
+• Ethics of a Teacher
+
+• Confident and Welcoming Body Language
+
+• What makes a good sequence?
 
 SCHEDULES
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd4620da-2e74-46c2-9b0a-c00c0097cef6.jpg)
