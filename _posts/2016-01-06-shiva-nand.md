@@ -1,10 +1,9 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.earthyoga.space/shiva-nand.html'
+hasPage: true
+inNav: true
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - yoga
   - shaun
@@ -17,8 +16,8 @@ keywords:
   - hatha
   - student
 description: 'Shiva Nand (Shaun Hannocks) * Years of teaching experience: 10+ * Certifications: 9 weeks Bikram California, 200 hrs Patrick Creelman (Anusara) Hatha flow Singapore, 500 hrs Diploma of Hatha Yoga, Ana Forrest continued education for teachers Hong Kong, Anusara Teacher training John Friend Japan, 200 hrs Sivananda Yoga Vedante Centre.'
-datePublished: '2016-04-14T07:54:59.237Z'
-dateModified: '2016-04-14T07:54:58.249Z'
+datePublished: '2016-04-14T08:26:37.060Z'
+dateModified: '2016-04-14T08:25:32.637Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: www.earthyoga.space
   url: 'http://www.earthyoga.space'
   favicon: 'http://www.earthyoga.space/favicon.ico'
+url: shiva-nand/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
